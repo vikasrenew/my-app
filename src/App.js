@@ -15,7 +15,7 @@ var App = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn all new React
         </a>
       </header>
     </div>
